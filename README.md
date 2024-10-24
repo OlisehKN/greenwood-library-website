@@ -93,6 +93,45 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie". Morgan wi
 
 ## Jamie's Work: Updating Events Page
 
+Repeat the same flow for jamie's work on Events Page. Ensure jamie's work is in "update-events" branch.
+
+1. Create a new branch named "update-events".
+
+   ![Screenshot (32)](https://github.com/user-attachments/assets/3fcc680a-8381-4b74-b223-39189cfef0e9)
+
+2. Add an update text to the events page.
+
+   ![Screenshot (33)](https://github.com/user-attachments/assets/790793c8-3347-4f48-8854-f2623fec64f5)
+
+3. Publish the "update-events" branch
+
+   ![Screenshot (34)](https://github.com/user-attachments/assets/29835e29-0cfb-4090-b03a-8cc98ad83aa0)
+
+4. Commit and Sync the updated changes of the events page to GitHub
+
+   ![Screenshot (35)](https://github.com/user-attachments/assets/3c507d8e-4c4c-4288-853b-b3926b6bacc0)
+
+5. Raise a Pull Request for Jamie's Work
+
+   ![Screenshot (36)](https://github.com/user-attachments/assets/6b063d74-9dba-453c-b395-41a19e2e91c2)
+
+6. Merge Jamie's Work to the main branch
+
+   ![Screenshot (37)](https://github.com/user-attachments/assets/5a8eb49a-94ee-4729-84e8-2ddc66ea88d6)
+
+   ![Screenshot (38)](https://github.com/user-attachments/assets/1b07d22f-c41a-4948-9f3e-16d707b3c8fd)
+
+
+## Conclusion
+
+After this project, i was able to sharpen my ability and skills on both GitHub and Visual Code Studio editor.
+
+
+
+
+
+
+
 
 
 
