@@ -60,6 +60,48 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie". Morgan wi
 
 ## Morgan's Work: Adding Book Reviews
 
+1. Create a Branch for Morgan:
+
+2. Switch to a new branch named "Add book reviews".
+
+   ![Screenshot (24)](https://github.com/user-attachments/assets/01b52008-284f-4e9c-9e63-efc027188fdf)
+
+3. Add a new file "book_reviews.html" to represent the Book Reviews Section:
+
+   ![Screenshot (25)](https://github.com/user-attachments/assets/496b43f2-c1bf-44c0-8476-a097d09d2cab)
+
+4. Add a random text content into the file.
+
+   ![Screenshot (26)](https://github.com/user-attachments/assets/07fe4e68-03b3-46f3-b078-37a16b11d83a)
+
+5. Stage, Commit and Push Changes with a message like "Add book reviews section".
+
+   ![Screenshot (27)](https://github.com/user-attachments/assets/1453a826-af68-43c1-a45a-72bddc3042b3)
+
+6. Push the add-book-reviews branch to GitHub.
+
+   ![Screenshot (31)](https://github.com/user-attachments/assets/933a861f-d088-4915-9def-b078d3a9c420)
+
+7. Raise a Pull Request for Morgan's work
+
+   ![Screenshot (28)](https://github.com/user-attachments/assets/29f56d5a-907b-4b76-81bf-6bfcb121b113)
+
+8. Merge Morgan's work to the main branch
+
+   ![Screenshot (30)](https://github.com/user-attachments/assets/2c56d24d-8473-434c-b2f6-978fc5cb307d)
+
+
+## Jamie's Work: Updating Events Page
+
+
+
+
+
+
+
+
+
+
 
 
 
